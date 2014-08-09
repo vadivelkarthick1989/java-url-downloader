@@ -1,4 +1,4 @@
-java-url-downloader
+Java-url-downloader
 ===================
 This is a java url downloader which uses multi threading to download file
 
